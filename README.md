@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmanSingh137
-- 👀 I’m interested in mobile app development and web development 
+- 👀 I’m interested in web development as well as AR. 
 - 🌱 I’m currently learning basic web development and app development and am currently working on my programming skills 
 
 
